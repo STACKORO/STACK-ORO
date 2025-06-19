@@ -26,7 +26,7 @@
 
 ### 🌟 Connect With Me :
   
-<a href='https://www.linkedin.com/in/talha-siddique-28961b279/'>
+<a href='https://www.linkedin.com/company/stack-oro/'>
 <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width="70" height="70"></a>
 
 
@@ -34,10 +34,10 @@
 <img src='https://static-00.iconduck.com/assets.00/gmail-icon-2048x2048-73rnz1b9.png' width="70" height="70"></a>
 
 
-<a href='https://www.instagram.com/talha__siddique/profilecard/'>
+<a href='https://www.instagram.com/stack.oro?igsh=bThyZW5kbnExaDVq'>
 <img src='https://imgs.search.brave.com/GdxApKdGYNV_p3xFCRZ1Guw6t6N5g4GlSEywybKx-9Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9pbnN0YWdy/YW0taWNvbi01MTJ4/NTEyLTg1Y2t2eHpq/LnBuZw' width="70" height="70"></a>
 
-<a href='https://web.facebook.com/talha.talhasiddique.5'>
+<a href='https://web.facebook.com/profile.php?id=61577398594778'>
 <img src='https://imgs.search.brave.com/6SKwdhOsY-K2XV-Wdui5fvvdN153woKTv_iFEAMVc2k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9mYWNlYm9v/ay1pY29uLTUxMng1/MTItc2ViNTQyanUu/cG5n' width="70" height="70"></a>
 
 <a href='https://api.whatsapp.com/send?phone=923455861630'>
